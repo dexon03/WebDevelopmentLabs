@@ -141,8 +141,8 @@ aside{
   border: 1px solid;
   border-left: 0;
   display: flex;
-  align-items: center;
-  grid-area: text;
+  align-items: center; 
+  text-align: right;
   justify-content: right;
   background-color:aquamarine;
 }
